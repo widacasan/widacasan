@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tap 4 Click**
 
-- 👨‍💻 All of my projects are available at [http://widacasan.ga](http://widacasan.ga)
+- 👨‍💻 All of my projects are available at [[http://widacasan.ga](https://widacasan.github.io/)]
 
 - 💬 Ask me about **React,javascript and html**
 
