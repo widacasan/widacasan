@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm William Camacho</h1>
-<h3 align="center">Technology enthusiast and Mechatronics Engineering Professional. You seek to tackle projects where you will be challenged to make an impact in the real world, while learning and growing as a professional in the process.</h3>
+<h3 align="center">William is a self-motivated Software Engineer with a strong aptitude for learning and a knack for creative problem-solving. Committed to ongoing personal development, William is dedicated to acquiring the skills essential for tackling today's challenges.</h3>
+<h3 align="center">Over the past four years, William has devoted himself to the relentless pursuit of knowledge in the field of software development.</h3>
 
 - 🔭 I’m currently working on **Tap 4 Click**
 
